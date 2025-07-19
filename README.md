@@ -92,7 +92,7 @@ In a SYN Flood attack, the third step (ACK) is never sent by the attacker. This 
 ## Author
 
 This project was created as part of a cybersecurity learning path focused on hands-on skills. The goal is to understand real-world attack patterns and build a portfolio of investigations and incident responses.
-
+I've attached all the related files so you can do it on your own if you wish.
 If you're interested in collaborating, learning more, or providing feedback, feel free to reach out via GitHub or LinkedIn.
 
 ---
